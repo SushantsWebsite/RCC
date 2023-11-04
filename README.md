@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--suppress HtmlUnknownTarget -->
-    <title>Real Coach Collaboration Group</title>
-    <link rel="stylesheet" href="style.css">
-</head
 <body>
     <header>
         <h1>Welcome to Real Coach Collaboration Group</h1>
